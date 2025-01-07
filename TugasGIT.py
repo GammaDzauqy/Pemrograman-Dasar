@@ -77,7 +77,7 @@ for key, lokasi in data_panen.items():
 for lokasi, kondisi in kondisi_lokasi.items():
     print(f'{lokasi}: {kondisi}')
 
-print("Tes 123") #Perubahan    
+  
 
 
 
