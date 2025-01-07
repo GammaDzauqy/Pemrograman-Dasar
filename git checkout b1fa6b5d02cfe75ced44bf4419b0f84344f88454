@@ -1,0 +1,50 @@
+[33mcommit 6c23fd4c214324eebb1403169edab8927474197f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: GammaDzauqy <gammadzauqyalbanna@gmail.com>
+Date:   Tue Jan 7 21:41:08 2025 +0700
+
+    Menghapus file tugasgit.py
+
+[33mcommit b1fa6b5d02cfe75ced44bf4419b0f84344f88454[m
+Merge: 964d62b ecb3dd3
+Author: GammaDzauqy <gammadzauqyalbanna@gmail.com>
+Date:   Tue Jan 7 21:32:33 2025 +0700
+
+    Merge branch 'maste
+    r' of https://github.com/GammaDzauqy/Pemrograman-Dasar
+
+[33mcommit 964d62b03f2b3417dfd83f06c68e6d76f1ede640[m
+Author: GammaDzauqy <gammadzauqyalbanna@gmail.com>
+Date:   Tue Jan 7 21:27:19 2025 +0700
+
+    pertama
+
+[33mcommit da7f114eaf6d2c04a14e831c3b22068d8809d261[m
+Author: GammaDzauqy <gammadzauqyalbanna@gmail.com>
+Date:   Tue Jan 7 16:23:53 2025 +0700
+
+    first
+
+[33mcommit ecb3dd3a252c45107ece57864b126ab3e9675dca[m
+Merge: d202db2 101eeb9
+Author: GammaDzauqye <gammadzauqyalbanna@gmail.com>
+Date:   Tue Dec 31 21:11:24 2024 +0700
+
+    first commit
+
+[33mcommit 101eeb95a1bd2d6e58a377153764e15785aa0140[m
+Author: GammaDzauqy <gamma.dzauqy@mhs.itenas.ac.id>
+Date:   Mon Dec 30 19:50:38 2024 +0700
+
+    Initial commit
+
+[33mcommit d202db23e2b27c0802b57d5f8c11db23e670a525[m
+Author: GammaDzauqye <gammadzauqyalbanna@gmail.com>
+Date:   Mon Dec 16 17:05:00 2024 +0700
+
+    Rename Tugas GIT.py to tugasgit.py
+
+[33mcommit c2619de312d3f2c8cdba979795d9900c7372032e[m
+Author: GammaDzauqye <gammadzauqyalbanna@gmail.com>
+Date:   Tue Dec 10 20:08:14 2024 +0700
+
+    First Commit
