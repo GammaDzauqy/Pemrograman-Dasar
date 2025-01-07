@@ -56,11 +56,11 @@ print('\nnama lokasi3:',nama_lokasi3)
 padi_hasil = {lokasi: hasil['hasil_panen']['padi'] for lokasi, hasil in data_panen.items()}
 kedelai_hasil = {lokasi: hasil['hasil_panen']['kedelai'] for lokasi, hasil in data_panen.items()} 
 
-print('\njumlah hasil panen padi:')
+print('\nhasil panen padi:')
 for lokasi, hasil in padi_hasil.items():
     print(data_panen[lokasi]['nama_lokasi'], hasil)
 
-print('\njumlah hasil panen kedelai:')
+print('\nhasil panen kedelai:')
 for lokasi, hasil in kedelai_hasil.items():
     print(data_panen[lokasi]['nama_lokasi'], hasil)
 
@@ -77,8 +77,7 @@ for key, lokasi in data_panen.items():
 for lokasi, kondisi in kondisi_lokasi.items():
     print(f'{lokasi}: {kondisi}')
 
-  
-
+print("123") #Perubahan
 
 
 
